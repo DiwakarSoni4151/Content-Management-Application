@@ -1,0 +1,42 @@
+ *{
+    margin: 0px;
+    padding: 0px;
+            
+        }
+        #container1{
+            height: 100px;
+            background-color: black;
+
+        }
+        .heading{
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color: white ;
+            text-align-last: center;
+            padding-top: 35px;
+            text-shadow: 1px 1px red;
+        }
+        span{
+            color: red;
+        }
+        #container2{
+            height: 400px;
+           background-color: rgb(177, 235, 235);
+            border: 3px solid red;
+            padding: 15px;
+
+        }
+        button{
+            position: relative;
+          
+            left: 600px;
+            height: 40px;
+            width: 150px;
+            background-color: red;
+            border: 2px solid black;
+            border-radius: 8px;
+        }
+        .button1:hover{
+            background-color: coral;
+        }
+
+   
